@@ -1,0 +1,50 @@
+h1
+{
+ font-family:"Comic Sans MS", "Segoe Script", "Monotype Cornival";
+ font-size: 40px;
+ color: aqua;
+ font-weight: bold;
+}
+h2
+{
+ font-family: "Segoe Script", "Monotype Cornival", "Comic Sans MS";
+ font-size: 30px;
+ color: blue;
+ font-weight: bold;
+}
+h3
+{
+ font-family: Cambria, Arial, "Bookman Old Style";
+ font-size: 20px;
+ color: #7924ff;
+ font-weight: bold;
+}
+h4
+{
+ font-family: "Monotype Cornival", "Comic Sans MS", "Segoe Script";
+ font-size: 30px;
+ color: teal;
+ font-weight: bold;
+}
+a
+{
+ color:red;
+ decoration: uderline;
+}
+a:hover
+{
+ background-color: red;
+ color:black;
+}
+img
+{
+ width: 300px;
+ height: 300px;
+ border-style: outset;
+ border-width: 5px;
+ border-color: aqua;
+}  
+p
+{
+font-weight: bold;
+}
